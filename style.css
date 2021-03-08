@@ -1,5 +1,5 @@
 body {
-  background-image: url("Dubys First Art Work.png");
+  background-image: url("bg-pattern-bottom.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -20,11 +20,11 @@ body {
   height: 400px;
   padding-top: 5%;
   padding-bottom: 5%;
-  background-image: url("bg-pattern-bottom.svg");
+  background-image: url("bg-pattern-bottom.png");
   background-color: hsla(185, 75%, 39%, 0.8);
 }
 #card {
-  background-image: url("bg-pattern-card.svg");
+  background-image: url("bg-pattern-card.png");
   background-repeat: no-repeat;
   background-size: 100% 50%;
   border-radius: 10px;
