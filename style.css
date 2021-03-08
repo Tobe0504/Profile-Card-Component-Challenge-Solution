@@ -50,9 +50,9 @@ img {
   width: 103%;
   border-bottom-right-radius: 10px;
 }
-#follower-grid {
+/* #follower-grid {
   display: grid;
   grid-template-columns: 30% 30% 30%;
   justify-content: space-evenly;
   margin-top: 30px;
-}
+} */
