@@ -1,5 +1,5 @@
 body {
-  background-image: url("/images/bg-pattern-bottom.svg");
+  background-image: url("bg-pattern-bottom.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -20,11 +20,11 @@ body {
   height: 400px;
   padding-top: 5%;
   padding-bottom: 5%;
-  background-image: url("/second challenge/images/bg-pattern-bottom.svg");
+  background-image: url("bg-pattern-bottom.svg");
   background-color: hsla(185, 75%, 39%, 0.8);
 }
 #card {
-  background-image: url("/images/bg-pattern-card.svg");
+  background-image: url("bg-pattern-card.svg");
   background-repeat: no-repeat;
   background-size: 100% 50%;
   border-radius: 10px;
