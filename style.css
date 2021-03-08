@@ -1,0 +1,58 @@
+body {
+  background-image: url("/images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  font-family: "Kumbh Sans", sans-serif;
+}
+#card-container {
+  /*background-image: url("/images/bg-pattern-bottom.svg");
+  background-color: hsl(185, 75%, 39%);
+  width: 70%;
+  height: 600px;
+  margin-top: 15%;
+  margin-left: 17%;*/
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  height: 400px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-image: url("/second challenge/images/bg-pattern-bottom.svg");
+  background-color: hsla(185, 75%, 39%, 0.8);
+}
+#card {
+  background-image: url("/images/bg-pattern-card.svg");
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  border-radius: 10px;
+  /*margin-top: 5%;*/
+  padding: 15px;
+  margin-left: 35%;
+  margin-right: 35%;
+  height: 75%;
+}
+img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+#victor-id {
+  margin-top: 30px;
+  background-color: white;
+  position: relative;
+  left: -16px;
+  top: -50px;
+  padding: 10px;
+  height: 71%;
+  width: 103%;
+  border-bottom-right-radius: 10px;
+}
+#follower-grid {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
